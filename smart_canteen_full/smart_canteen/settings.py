@@ -8,7 +8,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['smart-canteen-full-5.onrender.com','127.0.0.1']
 
 CSRF_TRUSTED_ORIGINS = [
-    'https://smart-canteen-qozm.onrender.com'
+    'https://smart-canteen-full-5.onrender.com',
 ]
 
 INSTALLED_APPS = [
